@@ -1,0 +1,24 @@
+# Promox Settings
+PROXMOX_URL="https://example-proxmox.com/api2/json"
+PROXMOX_API_SECRETS=
+PROXMOX_HOST_NAME="proxmox"
+
+#Admin Settings
+ADMIN_PASSWORD=
+
+# VM Settings
+VM_OS_TEMPLATE="ubuntu-base-20.04.1-v2"
+VM_CREATE="1"
+
+# Vm Host Settings
+VM_HOST_ID_NAME=
+
+# Vm Hardware Settings
+VM_HOST_CLIENT_MEMORY="1024"
+VM_HOST_CLIENT_SIZE="10G"
+VM_HOST_CLIENT_STORAGE_TYPE=
+
+
+# Directoy Path
+BASE_DIR_PATH="general_vms"
+

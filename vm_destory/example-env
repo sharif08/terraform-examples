@@ -1,0 +1,30 @@
+# Promox Settings
+PROXMOX_HOST_NAME="vie01-proxmox03"
+
+#Admin Settings
+ADMIN_USER="mgms-admin"
+ADMIN_PASSWORD=
+
+
+# Vm Host Settings
+VM_HOST_CLIENT_ID=
+DESTORY_CLIENT_HOSTNAME=
+DESTORY_CLIENT_IP=
+
+
+# Base Dir
+BASE_DIR_PATH="../vm_installation/general_vms"
+
+
+# Ldap Server Info
+# change in case of vlan tag is differ
+# Ldap Information
+# Change domain in case of other host
+# r3c.mgms, r3c.dev, r3c.prod
+LDAP_SERVER_CONTAINER_NAME='ldap-master01'
+LDAP_SERVER_IP=
+LDAP_EXSTING_CLIENT_DOMAIN=
+
+
+# Backup Server Info
+BACKUP_SERVER_IP=

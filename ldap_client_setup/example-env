@@ -1,0 +1,22 @@
+
+# Admin info
+ADMIN_USER='mgms-admin'
+ADMIN_PASSWORD=
+
+# Ldap Server Info
+# change in case of vlan tag is differ
+LDAP_CONTAINER_NAME='ldap-master01'
+LDAP_SERVER_IP01=
+LDAP_SERVER_HOST01='vie01-freeipa01'
+LDAP_SERVER_IP02=
+LDAP_SERVER_HOST02='vie01-freeipa02'
+
+# Ldap Information
+# Change domain in case of other host
+# r3c.mgms, r3c.dev, r3c.prod
+LDAP_DOMAIN=
+
+
+# Client Host Information
+LDAP_CLIENT_IP=
+LDAP_CLIENT_FQDN=
